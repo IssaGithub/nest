@@ -1,0 +1,10 @@
+{
+  "type": "mssql",
+  "host": "SI-DB-JIRA.kundenserver.si",
+
+  "username": "JIRA_SI_Test_API_DBUser",
+  "password": "P9Rm3X+8VwA4ZuX",
+  "database": "JIRA_SI_Test",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
